@@ -92,11 +92,19 @@ while Bad Loan Applications represent 13.82%.
 ---
 ## 📊 Dashboard Pages
 ### Loan Overview
-![Loan Overview](Screenshots/01_Loan_Overview.png)
+## 📊 Dashboard Pages
+
+### Loan Overview
+
+![Loan Overview](./Screenshots/01_Loan_Overview.png)
+
 ### Loan Application Analysis
-![Loan Analysis](Screenshots/02_Loan_Analysis.png)
+
+![Loan Application Analysis](./Screenshots/02_Loan_Analysis.png)
+
 ### Loan Performance
-![Loan Performance](Screenshots/03_Loan_Performance.png)
+
+![Loan Performance](./Screenshots/03_Loan_Performance.png)
 
 ---
 ## 🧮 DAX & Data Analysis
